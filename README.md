@@ -18,7 +18,7 @@ python run.py
 ```
 
 ## Deployment
-Change `RUN_IN_DEBUG_MODE=True` to `RUN_IN_DEBUG_MODE=False` in [`__init__.py`](FIX ME) if you want to run the project in production mode, otherwise leave it as is.
+Change `RUN_IN_DEBUG_MODE=True` to `RUN_IN_DEBUG_MODE=False` in [`__init__.py`](https://github.com/ivarjt/flask-project-template/blob/main/app/__init__.py) if you want to run the project in production mode, otherwise leave it as is.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](FIX ME) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ivarjt/flask-project-template/blob/main/LICENSE) file for details
